@@ -4,11 +4,11 @@ A C# WinForms desktop application built for the **Sri Lanka Ports Authority (SLP
 
 ## Features
 
-- **Driver management** — search, add, update, and delete driver job records
-- **Role-based access** — Administrator and User roles with different permissions
-- **Destination tracking** — stores GPS coordinates (latitude/longitude) per destination
-- **User management** — add, edit, and remove system users
-- **Password management** — users can change their own password
+- **Driver management** - search, add, update, and delete driver job records
+- **Role-based access** - Administrator and User roles with different permissions
+- **Destination tracking** - stores GPS coordinates (latitude/longitude) per destination
+- **User management** - add, edit, and remove system users
+- **Password management** - users can change their own password
 
 ## Tech Stack
 
