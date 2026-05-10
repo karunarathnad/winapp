@@ -20,7 +20,6 @@ A C# WinForms desktop application built for the **Sri Lanka Ports Authority (SLP
 
 - Windows OS
 - MySQL Server running locally
-- MySQL user `syscall` with password `syscall123` and database `syscall`
 
 ## Getting Started
 
